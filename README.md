@@ -26,9 +26,6 @@
 
 ## Usage 
 
-https://infinite-forest-13120.herokuapp.com/
-
-![image](https://user-images.githubusercontent.com/84816623/141161677-fb618c54-abb3-4773-a6f2-ffda39a359b7.png)
 
 
 ## License
