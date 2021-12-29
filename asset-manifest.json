@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Sunrisedad/react-portfolio/static/css/main.5bb1a2ff.css",
-    "main.js": "/Sunrisedad/react-portfolio/static/js/main.0accf0ce.js",
-    "static/js/787.cfd8f164.chunk.js": "/Sunrisedad/react-portfolio/static/js/787.cfd8f164.chunk.js",
-    "static/media/Employee.jpg": "/Sunrisedad/react-portfolio/static/media/Employee.571cce9bf87bf3909b80.jpg",
-    "static/media/notepad.jpg": "/Sunrisedad/react-portfolio/static/media/notepad.2cfc53662cf15a09c837.jpg",
-    "static/media/runbuddy.jpg": "/Sunrisedad/react-portfolio/static/media/runbuddy.000e1b5ff4f0b912c97f.jpg",
-    "static/media/Rain.jpg": "/Sunrisedad/react-portfolio/static/media/Rain.7ad6ef4431b8fcd917eb.jpg",
-    "static/media/Profile.jpg": "/Sunrisedad/react-portfolio/static/media/Profile.d6aa9ddf7a09073aceeb.jpg",
-    "static/media/Space.jpg": "/Sunrisedad/react-portfolio/static/media/Space.d46ef989b3f4453ad614.jpg",
-    "static/media/Social.jpg": "/Sunrisedad/react-portfolio/static/media/Social.811148826dde336de8e6.jpg",
-    "static/media/airport-3511342_640.jpg": "/Sunrisedad/react-portfolio/static/media/airport-3511342_640.0ad07513a54368b0dd1d.jpg",
-    "index.html": "/Sunrisedad/react-portfolio/index.html",
-    "main.5bb1a2ff.css.map": "/Sunrisedad/react-portfolio/static/css/main.5bb1a2ff.css.map",
-    "main.0accf0ce.js.map": "/Sunrisedad/react-portfolio/static/js/main.0accf0ce.js.map",
-    "787.cfd8f164.chunk.js.map": "/Sunrisedad/react-portfolio/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.becdcb7f.css",
+    "main.js": "/react-portfolio/static/js/main.d0b0049f.js",
+    "static/js/787.cfd8f164.chunk.js": "/react-portfolio/static/js/787.cfd8f164.chunk.js",
+    "static/media/Employee.jpg": "/react-portfolio/static/media/Employee.571cce9bf87bf3909b80.jpg",
+    "static/media/notepad.jpg": "/react-portfolio/static/media/notepad.2cfc53662cf15a09c837.jpg",
+    "static/media/runbuddy.jpg": "/react-portfolio/static/media/runbuddy.000e1b5ff4f0b912c97f.jpg",
+    "static/media/Rain.jpg": "/react-portfolio/static/media/Rain.7ad6ef4431b8fcd917eb.jpg",
+    "static/media/Profile.jpg": "/react-portfolio/static/media/Profile.d6aa9ddf7a09073aceeb.jpg",
+    "static/media/Space.jpg": "/react-portfolio/static/media/Space.d46ef989b3f4453ad614.jpg",
+    "static/media/Social.jpg": "/react-portfolio/static/media/Social.811148826dde336de8e6.jpg",
+    "static/media/airport-3511342_640.jpg": "/react-portfolio/static/media/airport-3511342_640.0ad07513a54368b0dd1d.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.becdcb7f.css.map": "/react-portfolio/static/css/main.becdcb7f.css.map",
+    "main.d0b0049f.js.map": "/react-portfolio/static/js/main.d0b0049f.js.map",
+    "787.cfd8f164.chunk.js.map": "/react-portfolio/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bb1a2ff.css",
-    "static/js/main.0accf0ce.js"
+    "static/css/main.becdcb7f.css",
+    "static/js/main.d0b0049f.js"
   ]
 }
