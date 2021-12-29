@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.d06aab46.css",
+    "main.js": "/my-app/static/js/main.43712af2.js",
+    "static/js/787.cfd8f164.chunk.js": "/my-app/static/js/787.cfd8f164.chunk.js",
+    "static/media/Employee.jpg": "/my-app/static/media/Employee.571cce9bf87bf3909b80.jpg",
+    "static/media/notepad.jpg": "/my-app/static/media/notepad.2cfc53662cf15a09c837.jpg",
+    "static/media/runbuddy.jpg": "/my-app/static/media/runbuddy.000e1b5ff4f0b912c97f.jpg",
+    "static/media/Rain.jpg": "/my-app/static/media/Rain.7ad6ef4431b8fcd917eb.jpg",
+    "static/media/Profile.jpg": "/my-app/static/media/Profile.d6aa9ddf7a09073aceeb.jpg",
+    "static/media/Space.jpg": "/my-app/static/media/Space.d46ef989b3f4453ad614.jpg",
+    "static/media/Social.jpg": "/my-app/static/media/Social.811148826dde336de8e6.jpg",
+    "static/media/airport-3511342_640.jpg": "/my-app/static/media/airport-3511342_640.0ad07513a54368b0dd1d.jpg",
+    "index.html": "/my-app/index.html",
+    "main.d06aab46.css.map": "/my-app/static/css/main.d06aab46.css.map",
+    "main.43712af2.js.map": "/my-app/static/js/main.43712af2.js.map",
+    "787.cfd8f164.chunk.js.map": "/my-app/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d06aab46.css",
+    "static/js/main.43712af2.js"
+  ]
+}
