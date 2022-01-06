@@ -44,11 +44,11 @@ function Projects() {
                             </div>
                         </a>
 
-                        <a class="secondary image5" href="https://github.com/Sunrisedad/employee-tracker" target="_blank">
+                        <a class="secondary image5" href="https://tomodachi-sadboitay.herokuapp.com/" target="_blank">
                             <div class="project-display">
                                 <div class="project-title">
-                                    <h3>Employee Tracker</h3>
-                                    <a className="github-link"  href='https://github.com/Sunrisedad/employee-tracker' target="_blank"><i className="fab fa-github"></i></a>
+                                    <h3>Tomodachi</h3>
+                                    <a className="github-link"  href='https://github.com/Johnson90cm/Tomodachi' target="_blank"><i className="fab fa-github"></i></a>
                                 </div>
                             </div>
                         </a>
